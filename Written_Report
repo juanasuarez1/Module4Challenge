@@ -1,0 +1,6 @@
+    For the PyCity School Analysis, we begin by creating a district summary. In this district summary we get basic information such as total schools, total students, average scores, etc. 
+This helps us get an overall picture of everything. Next, we break down the data into school by school categories, adding variables such as school type and per school capita. 
+We can further categorize the data by making categories of the averages for the school based on grade, school type, school size, or school spending.
+
+    One of the conclusions we can draw from the data presented: School that achieved a higher spending rate per student actually acheived lower passsing percentages than schools than spent less per student.
+That is, the schools that spent less per student achieved higher passing percentages. An additional conclusion, charter schools scored significantly higher passing percentages than district schools.
